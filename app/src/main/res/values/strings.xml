@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My notification prep</string>
+    <string name="longText">Google Play Store compares the features your app requires to the features available on each user\'s device to determine whether your app is compatible with each device. If the device does not provide all the features your app requires, the user cannot install your app.  However, if your app\'s primary functionality does not require a device feature, you should set the required attribute to \"false\" and check for the device feature at runtime.</string>
+</resources>
